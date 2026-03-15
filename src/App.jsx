@@ -98,8 +98,12 @@ function App() {
           ✨
         </span>
       </div>
-      <h1 className="proposal-text">You're my favorite person in the world 💕</h1>
-      <p className="proposal-subtitle">Every moment with you feels like home. Will you be my girlfriend?</p>
+      <h1 className="proposal-text">
+        You're my favorite person in the world 💕
+      </h1>
+      <p className="proposal-subtitle">
+        Every moment with you feels like home. Will you be my girlfriend?
+      </p>
       <div className={`buttons-container ${shake ? "shake" : ""}`}>
         <button
           className="btn btn-no"
